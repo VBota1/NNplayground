@@ -1,0 +1,19 @@
+Version 108
+	1 moved creation of text view before creation of NN
+		modified files: XORHelloWorld.java
+	2 intialised weights with copied values from a previous rtaining with error of 0.1
+		modified files: XORHelloWorld.java
+	3 left comments with a 4'th layer intialization, bias setting and wight setting
+		modified files: XORHelloWorld.java
+	4 importet more libraryes for various activation functions
+		modified files: XORHelloWorld.java
+
+Version 107
+	1 enabled scroll on XOR view
+		modified files: fragment_xorhello_world.xml
+			XORHelloWorld.java
+	2 removed unused imports 
+		modified files: XORHelloWorld.java
+			NNMainActivity.jva
+	3 organised text for XOR
+		modified files: XORHelloWorld.java
